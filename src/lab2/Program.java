@@ -2,7 +2,7 @@ package lab2;
 
 import mypokemons.*;
 import ru.ifmo.se.pokemon.Battle;
-import ru.ifmo.se.pokemon.Pokemon;
+
 
 public class Program {
 
