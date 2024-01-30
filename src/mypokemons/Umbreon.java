@@ -14,7 +14,7 @@ public class Umbreon extends Pokemon {
         super(name, level);
 
         super.setType(Type.DARK);
-        super.setStats(95, 65, 110, 60, 130, 65);
+        super.setStats(90, 70, 115, 45, 130, 65);
 
         ShadowPunch shadowPunch = new ShadowPunch(60, Double.POSITIVE_INFINITY);
         HydroPump hydroPump = new HydroPump(110, 80);
